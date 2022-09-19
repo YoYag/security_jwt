@@ -1,0 +1,16 @@
+// 받아온 Attribute 정보
+{sub=116608527728912893407,
+name=ed gg,
+given_name=ed,
+family_name=gg,
+picture=https://lh3.googleusercontent.com/a/ALm5wu0RPg_FHVQgG3w4-qniOI5nDmb6XwO8mjlwQlda=s96-c,
+email=lae121314@gmail.com,
+email_verified=true,
+locale=ko}
+
+// 회원가입진행
+username = "google_116608527728912893407"
+password = "암호화(겟인데어)"
+email = "lae121314@gmail.com"
+provider = "google"
+providerId = "116608527728912893407"
